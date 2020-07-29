@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "868105122776",
+    "firebase_url": "https://rnphoneauth-f876f.firebaseio.com",
+    "project_id": "rnphoneauth-f876f",
+    "storage_bucket": "rnphoneauth-f876f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:868105122776:android:d75bb80a43fca920f6f8ad",
+        "android_client_info": {
+          "package_name": "com.rnphoneauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "868105122776-doc7jitsa5oj0qei92jdtrsh9q5u7t0t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rnphoneauth",
+            "certificate_hash": "493f40c469486320905b55900972ddf566bbb613"
+          }
+        },
+        {
+          "client_id": "868105122776-q36o5ha6l9g62p35rathdjb8fh400epc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMrUjU-pXxNF-4rWFQ3efXopcGqf-5l5w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "868105122776-q36o5ha6l9g62p35rathdjb8fh400epc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "868105122776-np3o9grlndoll4f1j1qseeq61vmehcl7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.RnPhoneAuth"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
